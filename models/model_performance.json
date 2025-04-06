@@ -1,0 +1,72 @@
+{
+    "Logistic Regression": {
+        "accuracy": 0.4811320754716981,
+        "f1": 0.375,
+        "net_return": -0.2364828496678577,
+        "max_drawdown": -0.27033942558328017,
+        "sharpe_ratio": -1.190244670550295
+    },
+    "Random Forest": {
+        "accuracy": 0.5754716981132075,
+        "f1": 0.47674418604651164,
+        "net_return": 0.051746704993350434,
+        "max_drawdown": -0.11049306383181456,
+        "sharpe_ratio": 0.3631455881109885
+    },
+    "SVM": {
+        "accuracy": 0.5330188679245284,
+        "f1": 0.4277456647398844,
+        "net_return": -0.054484771862187586,
+        "max_drawdown": -0.19721547711705634,
+        "sharpe_ratio": -0.14253181066898857
+    },
+    "KNN": {
+        "accuracy": 0.5047169811320755,
+        "f1": 0.5161290322580645,
+        "net_return": -0.22023272136979877,
+        "max_drawdown": -0.30082204185151273,
+        "sharpe_ratio": -0.9157144925194274
+    },
+    "Neural Network": {
+        "accuracy": 0.4811320754716981,
+        "f1": 0.4811320754716981,
+        "net_return": -0.3249017557706654,
+        "max_drawdown": -0.372136096425572,
+        "sharpe_ratio": -1.5242147820860186
+    },
+    "Naive Bayes": {
+        "accuracy": 0.5188679245283019,
+        "f1": 0.0,
+        "net_return": 0.0,
+        "max_drawdown": 0.0,
+        "sharpe_ratio": NaN
+    },
+    "Decision Tree": {
+        "accuracy": 0.5188679245283019,
+        "f1": 0.0,
+        "net_return": 0.0,
+        "max_drawdown": 0.0,
+        "sharpe_ratio": NaN
+    },
+    "AdaBoost": {
+        "accuracy": 0.5188679245283019,
+        "f1": 0.5233644859813084,
+        "net_return": -0.18753192502553406,
+        "max_drawdown": -0.22624578807178242,
+        "sharpe_ratio": -0.7578111033765336
+    },
+    "Gradient Boosting": {
+        "accuracy": 0.5235849056603774,
+        "f1": 0.47668393782383417,
+        "net_return": -0.07953662710120901,
+        "max_drawdown": -0.165256479568074,
+        "sharpe_ratio": -0.24608489761953928
+    },
+    "XGBoost": {
+        "accuracy": 0.5047169811320755,
+        "f1": 0.467005076142132,
+        "net_return": -0.1854112309706809,
+        "max_drawdown": -0.28284955030158654,
+        "sharpe_ratio": -0.7844787172087754
+    }
+}

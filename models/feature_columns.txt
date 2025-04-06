@@ -1,0 +1,17 @@
+MA_5
+MA_10
+MA_20
+MA_50
+EMA_5
+EMA_10
+EMA_20
+Return_1d
+Return_5d
+RSI
+MACD
+MACD_Signal
+MACD_Hist
+BB_Width
+HL_Range_Pct
+Price_Change_Pct
+Volume_Ratio
